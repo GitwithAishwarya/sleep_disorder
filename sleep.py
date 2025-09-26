@@ -115,5 +115,5 @@ st.write("""
 1. Use the sidebar to enter the patient's details.
 2. Adjust the sliders for numerical features like Age, Sleep Duration, etc.
 3. Select appropriate options for Gender, Occupation, and BMI Category.
-4. Click the 'Predict' button to see the predicted sleep disorder.
+4. Click the 'Predict' button to see the predicted sleep disorder.
 """)
